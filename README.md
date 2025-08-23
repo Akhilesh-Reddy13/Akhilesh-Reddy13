@@ -2,7 +2,7 @@
 - 👀 I’m interested in contributing to open source.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on any tech-related work.
-- 📫 How to reach me r.akhilesh1046@gmail.com
+- 📫 How to reach me akhileshreddypamreddy@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I'M A DEVELOPER.
 
